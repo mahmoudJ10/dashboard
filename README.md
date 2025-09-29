@@ -18,8 +18,8 @@ A **responsive and reusable React Admin Dashboard** built to demonstrate core Re
   - Product List
 
 ## Live Demo
-- https://prismatic-cactus-0884d3.netlify.app
-- 
+- https://whimsical-marzipan-f1dd01.netlify.app/
+  
 ## **Technologies Used**
 
 - React.js (Functional Components & Hooks)
